@@ -1,0 +1,7 @@
+Manual ZMQ: https://pyzmq.readthedocs.io/en/latest/index.html
+
+Examples: https://github.com/zeromq/pyzmq/tree/HEAD/examples
+
+ZMQ Guide: https://zguide.zeromq.org/
+
+Source code: https://github.com/imatix/zguide
